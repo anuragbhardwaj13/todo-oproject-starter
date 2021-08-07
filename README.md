@@ -2,7 +2,7 @@
 
 ### > now fork this repo
 
-### > Clone it using `git clone https://github.com/anuragbhardwaj13/todo-starter-project.git`
+### > Clone it using `git clone https://github.com/anuragbhardwaj13/todo-project-starter.git`
 
 ### > now `npm install`
 
